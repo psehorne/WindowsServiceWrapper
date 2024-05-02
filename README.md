@@ -1,4 +1,4 @@
-## MD5-Generator
+## Windows Service Wrapper
 MyService.cpp is a wrapper to make a Windows service out of application code.
 
 NOTE: function main() resides in MyService.cpp , not in your app.
